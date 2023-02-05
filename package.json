@@ -1,0 +1,28 @@
+{
+  "name": "siolite",
+  "version": "1.0.0",
+  "description": "a lightweight socket.io client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easrng/siolite.git"
+  },
+  "keywords": [
+    "socket.io",
+    "websocket",
+    "websockets"
+  ],
+  "author": "easrng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easrng/siolite/issues"
+  },
+  "homepage": "https://github.com/easrng/siolite#readme",
+  "type": "module",
+  "dependencies": {
+    "eiolite": "^1.0.0"
+  }
+}
