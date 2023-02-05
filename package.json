@@ -1,5 +1,5 @@
 {
-  "name": "siolite",
+  "name": "@easrng/siolite",
   "version": "1.0.0",
   "description": "a lightweight socket.io client",
   "main": "index.js",
